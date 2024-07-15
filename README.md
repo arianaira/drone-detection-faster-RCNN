@@ -1,2 +1,2 @@
-# drone-detection
-object detection using pytorch (drone detection)
+# Drone Detection
+object detection using faster R-CNN with pytorch (drone detection)
